@@ -8,6 +8,11 @@ body {
   color: #5a5a5a;
 }
 
+h1
+{
+	font-family: "Courier New", Courier, monospace;
+}
+
 
 /* CUSTOMIZE THE CAROUSEL
 -------------------------------------------------- */
@@ -64,6 +69,16 @@ body {
   font-weight: 300;
   line-height: 1;
   letter-spacing: -.05rem;
+}
+
+.featurette-text-left
+{
+	align: left;
+}
+
+.featurette-text-right
+{
+	align: right;
 }
 
 
