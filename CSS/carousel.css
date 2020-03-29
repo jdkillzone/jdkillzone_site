@@ -2,6 +2,7 @@
 -------------------------------------------------- */
 /* Padding below the footer and lighter body text */
 
+
 body {
   padding-top: 3rem;
   padding-bottom: 3rem;
@@ -62,6 +63,7 @@ h1
 
 .featurette-divider {
   margin: 5rem 0; /* Space out the Bootstrap <hr> more */
+  border-color: #70637a;
 }
 
 /* Thin out the marketing headings */
